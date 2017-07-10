@@ -1,10 +1,1 @@
-<html>
-<body>
-<h2>Hello World!</h2>
-<form action="/user/login.do" method="post">
-    <input type="text" name="username" value="user">
-    <input type="text" name="password" >
-    <input type="submit">
-</form>
-</body>
-</html>
+<!DOCTYPE html><html><head><meta charset=utf-8><title>frontend</title><link href=https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css rel=stylesheet><link href=/static/css/app.d41d8cd98f00b204e9800998ecf8427e.css rel=stylesheet></head><body><div id=app></div><script src=https://apps.bdimg.com/libs/jquery/2.1.4/jquery.min.js></script><script type=text/javascript src=/static/js/manifest.a97ab57ec5acb64a27a1.js></script><script type=text/javascript src=/static/js/vendor.5d0458ff2fe24d118a85.js></script><script type=text/javascript src=/static/js/app.27ad1d9088bb8c6250e1.js></script></body></html>
